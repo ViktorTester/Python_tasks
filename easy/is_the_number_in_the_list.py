@@ -8,7 +8,6 @@ if len(arr) == 0:
 else:
     print(*arr)
 
-
 # The program reads a list of numbers lst from the first line and a number 'x'
 # from the second line and displays all the positions
 # where the number 'x' occurs in the given list lst.

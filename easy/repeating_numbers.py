@@ -14,7 +14,6 @@ for i in range(len(s)):
 
 print(*arr2)
 
-
 # The program takes as input a list of numbers in one line and displays
 # in one line the values that occur in it more than once.
 # The output numbers are not repeated, the order of their output is arbitrary.
