@@ -10,6 +10,7 @@ else:
     r = int(input())
     print(3.14 * (r ** 2))
 
+
 # The program finds the areas of some figures.
 # The input is the shape type (triangle, rectangle and circle)
 # and the corresponding parameters.

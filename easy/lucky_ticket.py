@@ -13,6 +13,7 @@ if D_1 + D_2 + D_3 == D_3 + D_4 + D_5:
 else:
     print('Common')
 
+
 # The program finds out if the ticket is lucky.
 # The input to the program is a string of six digits.
 # A ticket is considered lucky if the sum of the first three digits matches

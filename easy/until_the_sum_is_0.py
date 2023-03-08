@@ -9,6 +9,7 @@ while True:
         print(sum(arr))
         break
 
+
 # The program reads numbers from the console (one per line) until the
 # sum of the entered numbers is 0 and immediately after that displays
 # the sum of the squares of all the numbers read.

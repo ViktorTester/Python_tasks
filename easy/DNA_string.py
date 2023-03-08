@@ -12,6 +12,7 @@ dna = dna + str(count + 1)
 
 print(dna)
 
+
 # The program compresses repeated characters in a DNA string.
 # Groups of identical characters in the original string are replaced with that
 # character and the number of times it occurs at that position in the string.
