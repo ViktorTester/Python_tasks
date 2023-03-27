@@ -17,3 +17,10 @@ else:
 # The input to the program is a string of six digits.
 # A ticket is considered lucky if the sum of the first three digits matches
 # the sum of the last three digits of the ticket number.
+
+# version 2
+n = list(map(int, list(input().zfill(6))))
+if n[0] + n[1] + n[2] == n[-1] + n[-2] + n[-3]:
+    print('YES')
+else:
+    print('NO')
