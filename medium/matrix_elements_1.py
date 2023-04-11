@@ -1,5 +1,4 @@
 matrix = []
-total = 0
 
 for i in range(n := int(input())):
     row = list(map(int, input().split()))
