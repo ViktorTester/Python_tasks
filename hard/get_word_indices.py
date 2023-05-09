@@ -11,3 +11,4 @@ def get_word_indices(strings: list[str]) -> dict:
 # The get_word_indices function takes a list of strings and returns a dictionary,
 # where keys are unique lowercase words from a list of strings, and values are lists
 # of string indices in which those words occur.
+
